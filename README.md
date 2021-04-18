@@ -1,1 +1,1 @@
-# Applications created on plain ruby language.
+# CLI applications created on ruby language.
